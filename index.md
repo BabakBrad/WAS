@@ -2,122 +2,79 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+![Logo](docs/img/HR%20Logo.png)
 
-[Link to another page](./another-page.html).
+# Web Application Security
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+Web Applications are currently the predominant source of software vulnerabilities exploited in online attacks.Quantity and importance of data entrusted to web applications is growing, and defenders need to learn how to secure them. Traditional network defences, such as firewalls, fail to secure web applications.  There is a growing need and demand for web programmers to be security literate.
+This course introduces these potential risks and helps students to better understand web application vulnerabilities, thus enabling them to properly defend organizations’ web assets. This course covers the main types of web application vulnerabilities and current professional coding and testing best practices to be able to successfully develop and test secure web applications.
 
 * * *
 
-### Here is an unordered list:
+## Course Description
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+You can find the full course descriptor at: [Web Application Security Course Descriptor]()
 
-### And an ordered list:
+* * *
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+## Learning Outcome
 
-### And a nested list:
+On completion of this module, students will be able to:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+1. Apply a detailed methodology to your web application penetration tests.
 
-### Small image
+2. Analyse the results from automated web testing tools to remove false positives and validate findings. Manually discover key web application flaws.
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+3. Analyse traffic between the client and the server application using proxy tools to find security issues within the client-side application code.
 
-### Large image
+4. Create configurations and test payloads within other web attacks.
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+* * *
 
+## Slides
 
-### Definition lists can be used with HTML syntax.
+Slides can be download below:
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+> [Week 1: The Basics](slds/W01-Basics.pptx)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+> [Week 2: Passing Data to Subsystems]()
 
-```
-The final element.
-```
+> [Week 3: User Input]()
+
+> [Week 4: Output Handling]()
+
+> [Week 5: Web Trojans]()
+
+> [Week 6: Passwords]()
+
+> [Week 7: Enemies of Secure Code]()
+
+* * *
+
+## Lab Practices
+
+Lab instructions can be download below:
+
+> [Week 1: HTTP Requests and Responses](labs/Lab-01-HTTP.pdf)
+
+> [Week 2: Building a Security Lab]()
+
+> [Week 3: Subsystems]()
+
+> [Week 4]()
+
+> [Week 5]()
+
+> [Week 6]()
+
+> [Week 7]()
+
+* * *
+
+### Main text book:
+_Sverre H. Huseby_. [Innocent Code: A Security Wake-Up Call for Web Programmers](https://www.amazon.com/Innocent-Code-Security-Wake-Up-Programmers/dp/0470857447). Wiley; 1 edition (January 30, 2004)
+
+### Additional references:
+_Paco Hope_ and _Ben Walther_. [Web Security Testing Cookbook: Systematic Techniques to Find Problems Fast](https://www.amazon.com/Web-Security-Testing-Cookbook-Systematic/dp/0596514832). O'Reilly Media; 1 edition (October 27, 2008).
+
+_Dafydd Stuttard_ and _Marcus Pinto_. [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470). Wiley; 2 edition (September 27, 2011).
