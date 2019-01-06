@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Logo](docs/img/HR%20Logo.png)
+![Logo](docs/imgs/HR%20Logo.png)
 
 # Web Application Security
 
