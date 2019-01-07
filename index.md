@@ -71,7 +71,7 @@ Lab instructions can be download below:
 
 * * *
 
-### Main text book:
+### Text book:
 _Sverre H. Huseby_. [Innocent Code: A Security Wake-Up Call for Web Programmers](https://www.amazon.com/Innocent-Code-Security-Wake-Up-Programmers/dp/0470857447). Wiley; 1 edition (January 30, 2004)
 
 ### Additional references:
