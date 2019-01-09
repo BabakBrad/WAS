@@ -13,7 +13,7 @@ This course introduces these potential risks and helps students to better unders
 
 ## Course Description
 
-You can find the full course descriptor at: [Web Application Security Course Descriptor]()
+You can find the full course descriptor at: [Web Application Security Course Descriptor](docs/Web Application Security.pdf)
 
 * * *
 
